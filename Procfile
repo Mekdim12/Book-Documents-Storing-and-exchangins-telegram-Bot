@@ -1,1 +1,1 @@
-worker : python BookStoreBot.py
+worker : python BookStoreBot.py, DataBaseConnectivity.py,ForGunePortal.py
