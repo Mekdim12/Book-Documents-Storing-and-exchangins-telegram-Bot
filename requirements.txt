@@ -1,2 +1,5 @@
 telegram~=0.0.1
 firebase-admin==5.0.0
+telegram.ext 
+telegram
+firebase_admin.messaging
