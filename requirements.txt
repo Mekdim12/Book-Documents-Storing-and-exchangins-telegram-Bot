@@ -1,3 +1,5 @@
 python-telegram-bot
-telegram
+flask
+flask_session
+gunicorn
 firebase-admin
