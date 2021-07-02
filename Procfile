@@ -1,1 +1,1 @@
-worker : python BookStoreBot.py, DataBaseConnectivity.py,ForGunePortal.py
+web: gunicorn BookStoreBot:app
